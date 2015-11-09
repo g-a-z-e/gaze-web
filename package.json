@@ -14,8 +14,13 @@
   "author": "Rube",
   "license": "ISC",
   "devDependencies": {
+    "concur-gulp-rename": "^1.0.0",
     "gulp": "^3.9.0",
     "gulp-babel": "^5.2.1",
+    "gulp-browser-js-include": "0.0.7",
     "gulp-concat": "^2.6.0"
+  },
+  "dependencies": {
+    "gulp-header-footer": "0.0.3"
   }
 }
